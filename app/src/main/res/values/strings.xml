@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application_Activity</string>
+    <string name="hello_world">hello world</string>
+    <string name="action_settings">Settings</string>
+    <string name="one_click">one click</string>
+    <string name="count">count</string>
+</resources>
