@@ -4,4 +4,6 @@
     <string name="action_settings">Settings</string>
     <string name="one_click">one click</string>
     <string name="count">count</string>
+    <string name="Horizontal">0.498</string>
+    <string name="Vertical">0.46</string>
 </resources>
