@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
         Toast.makeText(this, "onCreate()", Toast.LENGTH_LONG).show();
         Log.d(TAG, "onCreate");
-        TextView counterView = findViewById(R.id.five);
+        TextView counterView = findViewById(R.id.seven);
         counterView.setText(count.toString());
     }
 
